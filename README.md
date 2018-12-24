@@ -14,7 +14,7 @@ _fresh_tomatoes.py - Structure to open a website with the movie in entertainment
 
 ### Copyright:
 
-The information on this website was taken from the following sources:
+The information on this website was taken on the Google and from the following sources:
 1. Videos: Youtube
 2. Imagens: Wikipedia
 3. Year: Adoro Cinema

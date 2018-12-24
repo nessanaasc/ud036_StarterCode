@@ -1,6 +1,6 @@
 # Vanessa Nascimento Favorite Movie Trailer
 
-The **Vanessa Nascimento Favorite Movie Trailer** Website is a Python 2.7.15 application that list my favorite movies (name, description, images and trailer).
+The **Vanessa Nascimento Favorite Movie Trailer** Website is a Python 2.7.15 application that list my favorite movies (name, description, images,trailer,etc).
 
 ### Using the Website
 1. You need to have some webbrowser which supports Bootstrap 3 in your computer
@@ -17,3 +17,4 @@ _fresh_tomatoes.py - Structure to open a website with the movie in entertainment
 The information on this website was taken from the following sources:
 1. Videos: Youtube
 2. Imagens: Wikipedia
+3. Year: Adoro Cinema

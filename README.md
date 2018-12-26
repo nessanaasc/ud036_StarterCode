@@ -15,7 +15,7 @@ The **Vanessa Nascimento Favorite Movie Trailer** Website is a Python 2.7.15 app
 	- Use cd to navigate until the folder 
 4. You can run the application with the following instruction: 'python entertainment_center.py'
 5. The website will open and you will see the movies 
-6. You can click in the movie image to play a youtube video
+6. You can click on the movie image to play a youtube video
 
 ### More Information:
 1. This application contains the followings files:

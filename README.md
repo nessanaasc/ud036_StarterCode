@@ -19,9 +19,9 @@ The **Vanessa Nascimento Favorite Movie Trailer** Website is a Python 2.7.15 app
 
 ### More Information:
 1. This application contains the followings files:
-_media.py- Structure of Movie_
-_entertainment_center.py - List of Movies_
-_fresh_tomatoes.py - Structure to open a website with the movie in entertainment_center.py_
+- _media.py- Structure of Movie_
+- _entertainment_center.py - List of Movies_
+- _fresh_tomatoes.py - Structure to open a website with the movie in entertainment_center.py_
 2. You can make your own website with your favorite movies changing the file entertainment_center.py
 
 ### Copyright:

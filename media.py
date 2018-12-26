@@ -1,13 +1,14 @@
 import webbrowser
 
-#This Python file contains the structure of Movie Class
-#Atributes Movie_Title, Movie_Storyline, Poster_image e Trailer_Youtube
-#Method Show_Trailer
+# This Python file contains the structure of Movie Class
+# This Class stores title, storyline, image, trailer, year
+# and quote about movies
+
 
 class Movie():
     """ This class provides a way to store movie related information """
-   
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube, movie_year,movie_quote):
+    def __init__(self, movie_title, movie_storyline, poster_image,
+                 trailer_youtube, movie_year, movie_quote):
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
@@ -17,4 +18,3 @@ class Movie():
 
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
-        

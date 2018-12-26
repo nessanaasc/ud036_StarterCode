@@ -67,3 +67,4 @@ star_wars = media.Movie("Star Wars - The Last Jedi",
 movies = [lord_of_rings, harry_potter, definitely_maybe, me_before_you,
           beauty_and_beast, star_wars]
 fresh_tomatoes.open_movies_page(movies)
+
